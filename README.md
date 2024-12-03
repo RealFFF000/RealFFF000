@@ -1,4 +1,4 @@
-<h1>Hi 🙂 - I'm Adam </h1>
+<h1>Hi 🙂</h1>
 
 
 <h3>I am a self-taugh programmer who likes Linux, Javascript and Rust</h3>
